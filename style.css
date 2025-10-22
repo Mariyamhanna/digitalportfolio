@@ -678,3 +678,53 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
+.about .title::after,
+.contact .title::after {
+  color: #000;               /* black text */
+  background: #c00808;       /* keep the existing background color */
+  padding: 0 5px;
+}
+
+.about .about-content .right a {
+    display: inline-block;
+    background: rgb(236, 119, 22);
+    color: #000; /* black text */
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid rgb(233, 152, 152);
+    transition: all 0.3s ease;
+}
+
+.about .about-content .right a:hover {
+    color: rgb(236, 119, 22); /* optional: change text color on hover */
+    background: none;          /* optional hover effect */
+}
+
+.contact .right form .field input,
+.contact .right form .textarea textarea {
+    border: 1px solid #000;  /* black border */
+    border-radius: 6px;
+    outline: none;
+    padding: 0 15px;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+    transition: all 0.3s ease;
+}
+
+/* .contact .right form .button-area button {
+    color: #000; /* black text */
+    display: inline-block;
+    width: 160px;
+    height: 45px;
+    background: crimson;
+    border: none;
+    border-radius: 6px;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+} */
