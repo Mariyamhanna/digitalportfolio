@@ -56,7 +56,7 @@ This project uses Git for version control and GitHub for hosting and collaborati
 
 ![3](https://github.com/user-attachments/assets/b842e638-6f23-42be-8b30-7159129197d3)
 ##  🎬 Demo
-![demo](https://img.icons8.com/ios-filled/50/000000/play-button-circled.png) 🔹 **Watch the Demo Video:** 🌈 [Click Here](https://youtu.be/FLmlytKVYLU)
+![demo](https://img.icons8.com/color/48/000000/play-button-circled.png) 🔹 **Watch the Demo Video:** [Click Here](https://youtu.be/FLmlytKVYLU)
 
 ##  📬 Contact
 **Developer**: Mariyam Hanna
